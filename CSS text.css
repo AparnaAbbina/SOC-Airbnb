@@ -1,0 +1,200 @@
+
+
+.header{
+   display: inline-block;
+   background-color: white;
+   width: max-content;
+   box-shadow : 2px 2px 2px rgba(0, 0, 0, .1);
+   padding: 6px;
+   position: fixed;
+   height: fit-content;
+   
+}
+
+.Search{
+    width: max-content;
+    align-items: center;
+    padding: 7px;
+    padding-top: 6px;
+    border-radius: 30px;
+    background: white;
+    display: inline-block;
+    vertical-align: center;
+    justify-content: space-evenly;
+    box-shadow : 2px 2px 3px rgba(0, 0, 0, .4);
+}
+
+
+.Search-input{
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 270px;
+    border: none;
+    background: transparent;
+    font-weight:bold;
+    padding-left : 10px;
+    text-align:left;
+    padding-top: 0px;
+    height:10px ;
+}
+
+.Search-filters{
+  width: max-content;
+  border-radius: 30px;
+  padding : 10px;
+  align-items: center;
+  box-shadow : 2px 2px 3px rgba(0, 0, 0, .4);
+}
+
+.Search-text{
+  font-size : 80%;
+  padding-left : 0px;
+  padding-bottom: 10px;
+  font-weight: lighter;
+}
+
+
+.Scrollmenu{
+    background-color: transparent;
+    overflow: auto;
+    white-space: nowrap;
+    padding-top: 10px;
+    padding-left: 0px;
+}
+
+.Image-text-align{
+
+    position: center;
+    display: inline-block;
+    border: transparent;
+    padding: 7px;
+    vertical-align: middle;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:x-small;
+}
+
+img {
+    width: 22px;
+    height: 32px;
+  }
+
+ /* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #f1f1f1; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background:#ffffff; 
+  }
+
+ 
+  .image-size{
+    height : 200px;
+    width  : 392px;
+    border-radius: 10px;
+   
+  }
+
+  .Hotel-details{
+    padding-top:150px;
+  }
+
+  .Hotel-rating{
+    vertical-align: middle;
+      align-items: top;
+      background-color: transparent;
+      display: inline-block;
+      
+  }
+  .spacing{
+    padding-right:220px;
+  }
+
+  .content{
+    text-align: center;
+    max-width: max-content;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    
+  }
+
+  .moreb{
+    padding: 10px;
+    border-radius: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+    border-color: black;
+    background-color: black;
+    color: white;
+  }
+
+ .content-links{
+  vertical-align: middle;
+  text-align:center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:small;
+  
+ }
+ .content-footer{
+   background-color: whitesmoke;
+   width:392px;
+   padding-bottom: 10px;
+ }
+
+ .footer-text{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+ }
+
+ .title{
+    font-weight: bold;
+ }
+
+ .fields{
+  vertical-align: center;
+    justify-content: space-evenly;
+  vertical-align: middle;
+ }
+
+ .fields-align{
+   text-align: center;
+   padding-right: 30px;
+ }
+
+ .support{
+   padding-left: 10px;
+ }
+
+ .main-footer{
+  width: 395px;
+  background-color: white;
+  align-content: center;
+
+ }
+
+ .footer{
+  vertical-align: middle;
+  align-items: center;
+  background-color: transparent;
+  display: inline-block;
+  justify-content: space-evenly;
+  padding:20px;
+ 
+ }
+
+
+
+
+
+  
+
