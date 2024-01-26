@@ -175,11 +175,12 @@ img {
    padding-left: 10px;
  }
 
- .main-footer{
+ footer{
   width: 395px;
   background-color: white;
   align-content: center;
-
+  position: fixed;
+  bottom : 0;
  }
 
  .footer{
